@@ -14,6 +14,8 @@ In this document, we will explain the reasons for using a web application and th
 
 * **PHP:** PHP is a general-purpose programming language widely used for web development. It is known for its simplicity, flexibility, and large community.
 PHP is an object-oriented language developed for web design and is very similar to C. Of course, in the new versions of this language, it has also found similarities with the Java language. PHP is a server side language. This means that the php pages are first processed by the server (Apache or IIS) and then the output is sent in the form of HTML and JavaScript codes to the browser with which the user is connected to the Internet.
+![WHAT-IS-PHP](https://github.com/IliyaNazmehr/MEA/assets/167589906/d599ebc1-5eba-44dc-b3dd-718dccdb6073)
+
 
 * **Laravel Framework:** Laravel is a popular PHP framework that provides a structured and organized approach to web development. It offers various features that simplify and streamline the development process.
 
